@@ -24,5 +24,6 @@ public class Operation {
     private Currency currencyTo;
 
     private BigDecimal initialAmount;
+    private BigDecimal convertedAmount;
     private BigDecimal conversionRate;
 }
